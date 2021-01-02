@@ -27,7 +27,7 @@ export const Reptiles = (args) => (
 );
 
 Reptiles.args = {
-  title: 'Reptiles',
+  title: 'Reptiles Comunes',
   animals: [{
     title: 'El dragón de Komodo',
     body: 'El dragón de Komodo o Varanus komodoensis está clasificado como la especie de lagarto más grande del mundo.',
